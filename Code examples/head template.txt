@@ -1,0 +1,25 @@
+<link rel="manifest" href="{{ site.manifest_url }}?nocache=1">
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes"> 
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="apple-mobile-web-app-title" content="Expo" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
+<link rel="apple-touch-icon" href="https://cloud.modyocdn.com/uploads/e1b58314-bbc2-4c1e-b4a3-f5237a7a6163/original/android-launchericon-192-192.png">
+
+<link rel="apple-touch-startup-image"
+      media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"
+      href="https://cloud.modyocdn.com/uploads/9a334191-9bc9-472a-9428-2705b7927b21/original/ipad_splash.png" />
+
+    <link rel="apple-touch-startup-image"
+      media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+      href="https://cloud.modyocdn.com/uploads/9a334191-9bc9-472a-9428-2705b7927b21/original/ipad_splash.png" />
+
+<link rel="apple-touch-startup-image"
+      media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"
+      href="https://cloud.modyocdn.com/uploads/9a334191-9bc9-472a-9428-2705b7927b21/original/ipad_splash.png" />
+
+    <link rel="apple-touch-startup-image"
+      media="screen and (device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+      href="https://cloud.modyocdn.com/uploads/9a334191-9bc9-472a-9428-2705b7927b21/original/ipad_splash.png" />
